@@ -4,6 +4,7 @@
   </a>
   <h3 align="center">Arduino-Smart-Bio-Fermenter</h3>
   <p align="center">🌱 Arduino Explore IoT Kit Hackathon 2024.<p/>
+  <p align="center">🏅 Honorable Mention Award.<p/>
   <p align="center">
     <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino">
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"> 
